@@ -9,7 +9,7 @@ A Python-based desktop application to monitor **CPU, RAM, Disk, and Network usag
 
 > GUI during live monitoring
 
-![Dashboard Screenshot](output.png)
+![Dashboard Screenshot](Capture.PNG)
 
 ---
 
@@ -17,7 +17,7 @@ A Python-based desktop application to monitor **CPU, RAM, Disk, and Network usag
 
 > Auto-generated after stopping the monitor
 
-![Usage Graph](graph.png)
+![Usage Graph](Capture1.PNG)
 
 ---
 
